@@ -1,0 +1,6 @@
+RewriteEngine on 
+RewriteRule ^main\-dashboard index.php
+RewriteRule ^report\-metering report/meteringreport.php
+RewriteRule ^report\-temperature report/tempreport.php
+
+

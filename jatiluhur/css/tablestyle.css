@@ -1,0 +1,165 @@
+.style1 {
+	font-size: 1em;
+	font-weight:bold;
+}
+.style2 {
+	font-size: 14px;
+    border-bottom-color: #BFBFBF;
+	border-width:0px 0px 1px 0px;
+	border-style:inset;
+    color:#000000;
+}
+.style3 {
+	font-size: 1em;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+}
+.style4 {
+	font-size: 1em;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #BDD7EE;
+
+}
+.style5 {
+	font-size: 18px;
+	font-weight:bold;
+ 	color:#000000;
+}
+
+.style6 {
+	font-size: 1em;
+    font-weight: bold;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #00B0F0;
+	}
+	
+.style7 {
+	font-size: 1em;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #90E15A;
+	}
+	
+.style8 {
+	font-size: 1em;
+    font-weight: bold;    
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #1FCF02;
+	}	
+
+.style9 {
+	font-size: 1em;
+    font-weight: bold;
+    color: #FF0000;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #FFFF00;
+	}
+	
+.style10 {
+	font-size: 1em;
+    font-weight: bold;
+    color: #ffffff;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+    background: #B7472A;	
+}
+
+.style11 {
+font-size:.8em;
+font-weight:bold;
+	border-width:0px 0px 0.5px 0px;
+	border-style:inset;	
+	padding: 1em;
+	color:#ffffff;
+	}
+	
+	
+.style12 {
+	background-color:#ffffff;
+	font-size:1em;
+	font-weight:reguler;
+	border:#00557F solid;
+	border-width:0px 1px 0px 1px;
+	border-style:inset;	
+	padding: 0.2em;
+	color:#000000;
+	}
+.style13 {
+	background-color:#0B48DC;
+	font-size:1em;
+	font-weight:bold;
+    text-align: center;
+	border-width:0px 1px 1px 1px;
+	border-style:inset;
+    padding: 5px;
+	color:#ffffff;
+	}	
+.style14 {
+font-size:.8em;
+font-weight:bold;
+	border-width:0px 0px 0px 0px;
+	border-style:inset;	
+	padding: 1em;
+	color:#ffffff;
+	}
+.style15 {
+	background-color:#E7E7E6;
+	font-size:1em;
+	font-weight:bold;
+	border:#ccc solid;
+	border-width:0.5px 0.5px 0px 0.5px;
+	border-style:inset;	
+	padding: 0.6em;
+	color:#000000;
+	}
+.style16 {
+background: rgb(246,248,249); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(246,248,249,1) 0%, rgba(196,199,206,1) 21%, rgba(229,235,238,1) 85%, rgba(245,247,249,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(246,248,249,1)), color-stop(21%,rgba(196,199,206,1)), color-stop(85%,rgba(229,235,238,1)), color-stop(100%,rgba(245,247,249,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(246,248,249,1) 0%,rgba(196,199,206,1) 21%,rgba(229,235,238,1) 85%,rgba(245,247,249,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(246,248,249,1) 0%,rgba(196,199,206,1) 21%,rgba(229,235,238,1) 85%,rgba(245,247,249,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(246,248,249,1) 0%,rgba(196,199,206,1) 21%,rgba(229,235,238,1) 85%,rgba(245,247,249,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(246,248,249,1) 0%,rgba(196,199,206,1) 21%,rgba(229,235,238,1) 85%,rgba(245,247,249,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f8f9', endColorstr='#f5f7f9',GradientType=0 ); /* IE6-9 */
+	font-size:1em;
+	font-weight:reguler;
+	border:#ccc solid;
+	border-width:0.5px 0.5px 0px 0.5px;
+	border-style:inset;	
+	padding: 0em;
+	color:#000000;
+	}
+	
+.box{
+  position: relative;
+  	font-size:2em;
+	font-weight:bold;
+	text-shadow: 0 1.5px 0 #ffffff;	
+  color:#ccc;
+  z-index: 0;
+  width: 10px;
+  height: 50px;
+  margin-left: 10px;
+  background-color: #000000;
+  text-align: center;
+  line-height: 0;
+  -webkit-text-stroke: 2px;
+  -webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  
+}		
